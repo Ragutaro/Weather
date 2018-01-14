@@ -1,0 +1,5 @@
+BACK CURSOR "images\\Cursor\\back.cur"
+NEXT CURSOR "images\\Cursor\\next.cur"
+NEXTALL CURSOR "images\\Cursor\\prev.cur"
+RELOAD CURSOR "images\\Cursor\\reload.cur"
+BACKALL CURSOR "images\\Cursor\\rev.cur"

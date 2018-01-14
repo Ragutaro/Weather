@@ -1,0 +1,29 @@
+*.dcu
+*.rsm
+*.exe
+/__history
+/__recovery
+/Win64/Release/images/LavAna
+/Win64/Release/images/Mario Montagna
+/Win64/Release/images/Michael Garmahis
+/Win64/Release/images/VClouds
+/Win64/Release/images/Alessio Atzeni
+/Win64/Release/images/Aramisdream
+/Win64/Debug/images/LavAna
+/Win64/Debug/images/Mario Montagna
+/Win64/Debug/images/Michael Garmahis
+/Win64/Debug/images/VClouds
+/Win64/Debug/images/Alessio Atzeni
+/Win64/Debug/images/Aramisdream
+/Win32/Release/images/LavAna
+/Win32/Release/images/Mario Montagna
+/Win32/Release/images/Michael Garmahis
+/Win32/Release/images/VClouds
+/Win32/Release/images/Alessio Atzeni
+/Win32/Release/images/Aramisdream
+/Win32/Debug/images/LavAna
+/Win32/Debug/images/Mario Montagna
+/Win32/Debug/images/Michael Garmahis
+/Win32/Debug/images/VClouds
+/Win32/Debug/images/Alessio Atzeni
+/Win32/Debug/images/Aramisdream

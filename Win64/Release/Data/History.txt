@@ -1,0 +1,12 @@
+﻿石狩市,https://tenki.jp/forecast/1/2/1400/1235/,tenki.jp-3h
+新潟市北区,https://tenki.jp/forecast/4/18/5410/15101/,tenki.jp-3h
+厚木市,https://tenki.jp/forecast/3/17/4620/14212/,tenki.jp-3h
+宮崎市,https://tenki.jp/forecast/9/48/8710/45201/,tenki.jp-3h
+大阪市都島区,https://tenki.jp/forecast/6/30/6200/27102/,tenki.jp-3h
+与那国町,https://tenki.jp/forecast/10/50/9420/47382/,tenki.jp-1h
+佐伯市,https://weather.yahoo.co.jp/weather/jp/44/8340/44205.html,yahoo.co.jp
+館山市,https://tenki.jp/forecast/3/15/4530/12205/,tenki.jp-3h
+熊本市中央区,https://tenki.jp/forecast/9/46/8610/43101/,tenki.jp-3h
+三豊市,https://tenki.jp/forecast/8/40/7200/37208/,tenki.jp-3h
+福岡市東区,https://tenki.jp/forecast/9/43/8210/40131/,tenki.jp-1h
+大分市,https://weather.yahoo.co.jp/weather/jp/44/8310/44201.html,yahoo.co.jp

@@ -1,0 +1,8 @@
+﻿佐伯市,https://weather.yahoo.co.jp/weather/jp/44/8340/44205.html,yahoo.co.jp
+徳之島町,https://weather.yahoo.co.jp/weather/jp/46/1000/46530.html,yahoo.co.jp
+十島村,https://weather.yahoo.co.jp/weather/jp/46/1000/46304.html,yahoo.co.jp
+奄美市,https://weather.yahoo.co.jp/weather/jp/46/1000/46222.html,yahoo.co.jp
+蔵王町,https://tenki.jp/forecast/2/7/3420/4301/,tenki.jp-3h
+横浜市泉区,https://tenki.jp/forecast/3/17/4610/14116/,tenki.jp-3h
+さいたま市西区,https://weather.yahoo.co.jp/weather/jp/11/4310/11101.html,yahoo.co.jp
+札幌市北区,https://tenki.jp/forecast/1/2/1400/1102/,tenki.jp-3h

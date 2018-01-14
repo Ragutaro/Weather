@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/08/26 00:01:48.000.910,=C:\Users\ragu\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/10/24 13:48:39.000.418,=C:\Users\ragu\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/11/04 20:25:35.000.492,=C:\Users\ragu\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/01/27 00:25:08.000.914,=C:\Users\ragu\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/04/01 15:19:38.000.358,=C:\Users\ragu\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/04/23 12:04:42.000.573,=C:\Users\ragu\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/07/14 15:17:17.000.050,=C:\Users\ragu\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/07/14 15:17:25.000.995,=C:\Users\ragu\Documents\Embarcadero\Studio\Projects\MyForm.pas</Transaction>
+    <Transaction>2017/07/14 15:18:03.000.951,C:\Users\ragu\Documents\Embarcadero\Studio\Projects\MyForm.dfm=C:\!MyData\MyBetaSoftware\Seattle\Weather\Main.dfm</Transaction>
+    <Transaction>2017/07/14 15:18:03.000.951,C:\Users\ragu\Documents\Embarcadero\Studio\Projects\MyForm.pas=C:\!MyData\MyBetaSoftware\Seattle\Weather\Main.pas</Transaction>
+    <Transaction>2017/07/14 15:18:18.000.021,C:\Users\ragu\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\!MyData\MyBetaSoftware\Seattle\Weather\Weather.dproj</Transaction>
+    <Transaction>2017/07/15 14:45:12.000.198,=C:\!MyData\MyBetaSoftware\Seattle\Weather\MyForm.pas</Transaction>
+    <Transaction>2017/07/15 14:45:49.000.225,C:\!MyData\MyBetaSoftware\Seattle\Weather\Option.pas=C:\!MyData\MyBetaSoftware\Seattle\Weather\MyForm.pas</Transaction>
+    <Transaction>2017/07/15 14:45:49.000.225,C:\!MyData\MyBetaSoftware\Seattle\Weather\Option.dfm=C:\!MyData\MyBetaSoftware\Seattle\Weather\MyForm.dfm</Transaction>
+    <Transaction>2017/07/16 00:08:47.000.609,C:\!MyData\MyBetaSoftware\Seattle\Weather\SelectPlace.pas=C:\!MyData\MyBetaSoftware\Seattle\Weather\Option.pas</Transaction>
+    <Transaction>2017/07/16 00:08:47.000.609,C:\!MyData\MyBetaSoftware\Seattle\Weather\SelectPlace.dfm=C:\!MyData\MyBetaSoftware\Seattle\Weather\Option.dfm</Transaction>
+    <Transaction>2017/07/16 20:16:03.000.677,=C:\!MyData\MyBetaSoftware\Seattle\Weather\untVersion.pas</Transaction>
+    <Transaction>2017/07/17 00:24:47.000.967,=C:\!MyData\MyBetaSoftware\Seattle\Weather\Option.pas</Transaction>
+    <Transaction>2017/07/17 10:01:44.000.290,=C:\!MyData\MyBetaSoftware\Seattle\_Component\FontTypeSize.pas</Transaction>
+    <Transaction>2017/07/18 20:25:56.000.772,=C:\!MyData\MyBetaSoftware\Seattle\Weather\MyForm.pas</Transaction>
+    <Transaction>2017/07/18 20:28:24.000.301,C:\!MyData\MyBetaSoftware\Seattle\Weather\MyForm.pas=C:\!MyData\MyBetaSoftware\Seattle\Weather\Rain.pas</Transaction>
+    <Transaction>2017/07/18 20:28:24.000.301,C:\!MyData\MyBetaSoftware\Seattle\Weather\MyForm.dfm=C:\!MyData\MyBetaSoftware\Seattle\Weather\Rain.dfm</Transaction>
+    <Transaction>2017/07/22 09:39:54.000.802,=C:\!MyData\MyBetaSoftware\Seattle\Weather\MyForm.pas</Transaction>
+    <Transaction>2017/07/22 09:41:38.000.893,C:\!MyData\MyBetaSoftware\Seattle\Weather\MyForm.dfm=C:\!MyData\MyBetaSoftware\Seattle\Weather\Web.dfm</Transaction>
+    <Transaction>2017/07/22 09:41:38.000.893,C:\!MyData\MyBetaSoftware\Seattle\Weather\MyForm.pas=C:\!MyData\MyBetaSoftware\Seattle\Weather\Web.pas</Transaction>
+    <Transaction>2017/07/22 14:19:36.000.398,=C:\!MyData\MyBetaSoftware\Seattle\Weather\MyForm.pas</Transaction>
+    <Transaction>2017/07/22 14:20:41.000.096,C:\!MyData\MyBetaSoftware\Seattle\Weather\EditFavorite.dfm=C:\!MyData\MyBetaSoftware\Seattle\Weather\MyForm.dfm</Transaction>
+    <Transaction>2017/07/22 14:20:41.000.096,C:\!MyData\MyBetaSoftware\Seattle\Weather\EditFavorite.pas=C:\!MyData\MyBetaSoftware\Seattle\Weather\MyForm.pas</Transaction>
+    <Transaction>2017/07/23 11:16:17.000.213,=C:\!MyData\MyBetaSoftware\Seattle\Weather - コピー\Unit1.pas</Transaction>
+    <Transaction>2017/07/23 11:23:25.000.154,C:\!MyData\MyBetaSoftware\Seattle\Weather - コピー\Unit1.pas=C:\!MyData\MyBetaSoftware\Seattle\Weather - コピー\untYahoo.pas</Transaction>
+    <Transaction>2017/07/29 08:29:26.000.239,C:\!MyData\MyBetaSoftware\Seattle\Weather\Web.pas=</Transaction>
+    <Transaction>2017/08/05 14:25:10.000.910,=C:\!MyData\MyBetaSoftware\Seattle\Weather\MyForm.pas</Transaction>
+    <Transaction>2017/08/05 14:25:54.000.345,C:\!MyData\MyBetaSoftware\Seattle\Weather\MyForm.pas=C:\!MyData\MyBetaSoftware\Seattle\Weather\VerUp.pas</Transaction>
+    <Transaction>2017/08/05 14:25:54.000.345,C:\!MyData\MyBetaSoftware\Seattle\Weather\MyForm.dfm=C:\!MyData\MyBetaSoftware\Seattle\Weather\VerUp.dfm</Transaction>
+    <Transaction>2017/08/08 00:45:55.000.864,C:\!MyData\MyBetaSoftware\Seattle\_Component\FontTypeSize.pas=</Transaction>
+    <Transaction>2017/08/12 16:24:25.000.350,=C:\!MyData\MyBetaSoftware\Seattle\Weather\Unit1.pas</Transaction>
+    <Transaction>2017/08/12 16:24:47.000.044,C:\!MyData\MyBetaSoftware\Seattle\Weather\Unit1.pas=C:\!MyData\MyBetaSoftware\Seattle\Weather\untTenki.pas</Transaction>
+    <Transaction>2017/08/15 21:34:12.000.435,=C:\!MyData\MyBetaSoftware\Seattle\Weather\Unit1.pas</Transaction>
+    <Transaction>2017/08/15 21:38:33.000.169,C:\!MyData\MyBetaSoftware\Seattle\Weather\Unit1.pas=C:\!MyData\MyBetaSoftware\Seattle\_Component\PngUtils.pas</Transaction>
+    <Transaction>2017/09/12 09:51:19.000.235,=C:\!MyData\MyBetaSoftware\Seattle\Weather\images\Cursor\back.cur</Transaction>
+    <Transaction>2017/09/12 09:51:19.000.267,=C:\!MyData\MyBetaSoftware\Seattle\Weather\images\Cursor\rev.cur</Transaction>
+    <Transaction>2017/09/12 09:51:19.000.241,=C:\!MyData\MyBetaSoftware\Seattle\Weather\images\Cursor\next.cur</Transaction>
+    <Transaction>2017/09/12 09:51:19.000.257,=C:\!MyData\MyBetaSoftware\Seattle\Weather\images\Cursor\reload.cur</Transaction>
+    <Transaction>2017/09/12 09:51:19.000.249,=C:\!MyData\MyBetaSoftware\Seattle\Weather\images\Cursor\prev.cur</Transaction>
+  </Transactions>
+</BorlandProject>
